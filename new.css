@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    background-color: black;
+}
+.logo h4{
+    color: skyblue;
+    margin-left: 40px;
+    font-size: 20px;
+    
+}
+.logo h2 {
+    display: flex;
+    
+    padding: 20px;
+    font-weight: bold;
+    font-size: 33px;
+    position: relative;
+    color:skyblue;
+}
+.menu{
+    margin-top: 2%;
+}
+.menu a{
+    height: 20px;
+    font-size: 20px;
+    padding: 85px;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    transition: 0.6s;
+}
+a:hover{
+    color: blue;
+}
+section{
+    display: flex;background-color: black;
+}
+footer{
+    display: inline-flex;
+    background-image: url("wall.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.intro p {
+    font-size: 20px;
+    color:white;
+}
+.button{
+    margin-top: 1px;
+    text-align: center;justify-items: center;
+    background-color: black;
+}
+.new{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 20px;
+    color: blue;
+    padding: 5px;background-color: black;
+}
+hr{
+    color: blue;
+}
+nav{
+    display:flex;
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+.bed3{
+    display: inline-block;
+}
+.benefits{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+main{
+    display:block;
+    background-color: black;
+}
+.image{
+    display:inline-flex;
+}
+figure{
+    display: flex;
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+aside{
+    display: flex;
+    justify-content:center ;
+    background-color: black;
+    color: white;
+    
+}
+.lone{
+    padding: 5px;
+}
+.ltwo{
+    padding: 5px;
+    
+}
+.lthree{
+    padding: 5px;
+}
+.lfour{
+    padding: 5px;
+}
+.last{
+    margin-top: 1%;
+    text-align: center;justify-content: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.address{
+    font-size: 10px;
+    color: white;
+}
+.mail a{
+    text-decoration: none;
+    margin-left: 86%;
+    padding-bottom: 25px;
+    color: white;
+}
+figcaption{
+    background-color: black;
+
+}
+body{
+    background-color: black;
+}
